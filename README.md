@@ -1,2 +1,2 @@
-# MeuMniTeste
+# MeuMiniTeste
 Meu primeiro teste
